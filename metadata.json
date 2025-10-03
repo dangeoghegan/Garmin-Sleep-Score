@@ -1,0 +1,5 @@
+{
+  "name": "Garmin Sleep Score Clone",
+  "description": "A web application that visualizes sleep data with an AI-powered analysis, inspired by the Garmin Connect UI. It displays sleep stages, various health metrics over time, and provides a concise summary of sleep quality.",
+  "requestFramePermissions": []
+}
